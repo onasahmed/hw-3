@@ -1,0 +1,52 @@
+.body{
+	background-color: antiquewhite;
+}
+.box{
+	width: 100px;
+	height: 100px;
+
+}
+.color{
+	color: red;
+}
+.red{
+	background-color: orangered;
+}
+.redm{
+	margin: 25px;
+}
+.redm2{
+	margin: 25px 50px;
+
+}
+.redm3{
+	margin: 25px 50px 75px;
+}
+.redm4{
+	margin: 25px  50px 75px 100px;
+}
+.blue{
+	background-color: skyblue;
+}
+          
+ .redp{
+ 	
+ 	padding: 100px;
+
+ }
+ .redp2{
+ 	padding: 100px 150px;
+ }
+.redp3{
+	padding: 100px 150px 200px;
+}
+.redp4{
+	padding: 100px 150px 200px 250px;
+}
+.iframe{
+	width: 49%%;
+	height: ;
+}
+table{
+	border: 1px black;
+}
